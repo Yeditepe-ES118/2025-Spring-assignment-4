@@ -38,8 +38,5 @@ If a score table shown below is given and ~min_score~ is set to 90,
 |        875 |   78 |      82 |        84 |        78 |
 
 ~find_students~ returns
-- ~id_num~: [125 622 309]
-- ~tot_std~: 3
-
-
-In the grading of this assignment no partial credit will be applied.
+- ~id_num~ (1D 64bit-integer NumPy array): [125 622 309]
+- ~tot_std~ (64bit-NumPy integer number): 3
